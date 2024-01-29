@@ -16,6 +16,10 @@ key_investigators:
 - name: Paolo Zaffino
   affiliation: University Magna Graecia of Catanzaro
   country: Italy
+  
+- name: Petros Koutsouvelis,
+  affiliation: Maastricht University
+  country: Netherlands
 
 - name: Maria Francesca Spadea
   affiliation: Institute of Biomedical Engineering
